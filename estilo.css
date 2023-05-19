@@ -6,3 +6,42 @@ table tr th, table tr td{
 table{
     border-collapse: collapse;
 }
+
+nav {
+    text-decoration: none;
+}
+
+#topo {
+    overflow-y: hidden;
+}
+section {
+    margin: 0.5rem;
+    height: 100vh;
+}
+section ol li {
+    margin: 1rem;
+}
+section ol li a {
+    text-decoration: none;
+    color: var(--black);
+}
+#resposta1 a {
+    text-decoration: none;
+    color: var(--black);
+}
+#resposta2 a {
+    text-decoration: none;
+    color: var(--black);
+}
+#resposta3 a {
+    text-decoration: none;
+    color: var(--black);
+}
+#resposta4 a {
+    text-decoration: none;
+    color: var(--black);
+}
+#resposta5 a {
+    text-decoration: none;
+    color: var(--black);
+}
